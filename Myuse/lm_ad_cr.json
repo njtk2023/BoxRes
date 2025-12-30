@@ -56,6 +56,13 @@
       "api": "https://91md.me/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 0
+    },{
+      "key": "幸资源",
+      "name": "幸资源",
+      "type": 0,
+      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 0
     }
   ]
 }
